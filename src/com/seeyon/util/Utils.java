@@ -9,5 +9,6 @@ package com.seeyon.util;
 public class Utils {
     public static void main(String[] args) {
         System.out.println("hi testGit!");
+        System.out.println("hi testGit too!");
     }
 }
